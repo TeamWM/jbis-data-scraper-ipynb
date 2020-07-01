@@ -1,0 +1,2 @@
+# jbis_data_scraper_ipynb
+jupyter notebookを使用したjbis_data_scraper
